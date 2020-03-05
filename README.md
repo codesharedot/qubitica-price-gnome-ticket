@@ -1,5 +1,8 @@
-# qubitica price gnome ticket 
+# qubitica gnome price ticker
 
-Gnome 3 desktop ticker for qubitica price with Python and argos. Rename to qubitica.1r.60s.py and put in ~/.config/argos
+Get qubitica price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/qubitica-price-gnome-ticket/](https://codesharedot.github.io/qubitica-price-gnome-ticket/)
 
-https://pythonbasics.org
+qubitica price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to qubitica.1r60s.py and put in ~/.config/argos
